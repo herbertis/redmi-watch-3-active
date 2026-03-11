@@ -67,6 +67,4 @@ Principais benefícios desta abordagem:
 **Herbert Sousa**
 
 UI Engineer | Product Designer | Front-end Developer
-
-GitHub: https://github.com/herbertis  
 LinkedIn: https://linkedin.com/in/herbert-sousa
