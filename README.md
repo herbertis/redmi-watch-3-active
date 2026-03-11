@@ -1,6 +1,6 @@
 # ⌚ Redmi Watch 3 Active - Product Landing Page
 
-[Preview do Projeto](https://herbertis.github.io/redmi-watch-3-active/)
+[Preview do Projeto](https://herbertis.github.io/redmi-watch-3-active-page/)
 
 ## 💻 Sobre o Projeto
 
